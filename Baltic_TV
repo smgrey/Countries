@@ -32,5 +32,12 @@ http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="ESTONIA",Tallinna TV
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="***************** Baltic LITHUANIA  ***********" tvg-id="" group-title="" tvg-logo="",***************** Baltic LITHUANIA  ***********
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/225px-Eesti_Televisioon_Logo.svg.png" group-title="LITHUANIA",ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/240px-ETV2_logo.svg.png" group-title="LITHUANIA",ETV2
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ETV%2B_logo.png/225px-ETV%2B_logo.png" group-title="LITHUANIA",ETV+
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="LITHUANIA",LRT
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
