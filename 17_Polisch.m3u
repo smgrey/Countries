@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="****************** POLEN ************" tvg-id="" group-title="" tvg-logo="",****************** POLEN ************
+http://cdn.stream360.pl/CW24/cw24live/playlist.m3u8
+#EXTINF:-1 tvg-name="CW24 TV" tvg-id="" group-title="POLEN" tvg-logo="http://cw24.tv/wp-content/uploads/2014/05/logo_cw24-300x1961.jpg",CW24 TV
+http://cdn.stream360.pl/CW24/cw24live/playlist.m3u8
+#EXTINF:-1 tvg-name="Mango24" tvg-id="" group-title="POLEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NewLogoMango.svg/360px-NewLogoMango.svg.png",Mango24
+https://stream.mango.pl:4443/mango/_definst_/live/playlist.m3u8
+#EXTINF:-1 tvg-name="dla Ciebie tv" tvg-id="" group-title="POLEN" tvg-logo="http://www.jaw.pl/wp-content/uploads/logo_jaw_pl_PNG_300.png",dla Ciebie tv
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1 tvg-name="Poland In"  tvg-id="" group-title="POLEN" tvg-logo="https://s.tvp.pl/files/portale-v4/polandin-com/images/logo/pi-logo.svg",Poland In
+plugin://plugin.video.youtube/play/?video_id=NU-E11C5Hak
+#EXTINF:-1 tvg-name="Telewizja wPolsce"  tvg-id="" group-title="POLEN" tvg-logo="http://static.wpolsce.pl/images/logo.png",Telewizja wPolsce
+plugin://plugin.video.youtube/play/?video_id=BgKGctL0u1U
+#EXTINF:-1 tvg-name="TV Dami"  tvg-id="" group-title="POLEN" tvg-logo="http://www.dami24.pl/images/headers/logo.png",TV Dami
+plugin://plugin.video.youtube/play/?video_id=JJBjrIuva_o
+#EXTINF:-1 tvg-name="TV Kujawy" tvg-id="" group-title="POLEN" tvg-logo="http://www.kujawy.info/wp-content/uploads/kujawy-info-logo-top.jpg",TV K Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP3 Warszawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLEN",TVP3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 tvg-id="" tvg-name="TVT Zgorzelec" tvg-logo="http://haldajazz.com/2016/images/sponsor/tvt.jpg" group-title="POLEN",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Torun" tvg-logo="http://www.toruntv.pl/public/img/new/logo.png" group-title="POLEN",TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-name="TV Trwam"  tvg-id="" group-title="POLEN" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/db/TV_Trwam_Logo.png/300px-TV_Trwam_Logo.png",TV Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv2.smil/chunklist_b950000.m3u8
