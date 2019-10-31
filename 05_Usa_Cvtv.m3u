@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="***************** USA CVTV ***********" tvg-id="" group-title="" tvg-logo="",**************** USA CVTV ***********
+https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIOSEtQ.png" group-title="USA;CVTV",A&E
+https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1E41Fs3.png" group-title="USA;CVTV",Antenna TV
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JS08AAb.png" group-title="USA;CVTV",Bounce TV
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IcAM9uw.png" group-title="USA;CVTV",Cozi TV
+http://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UueddD1.png" group-title="USA;CVTV",Grit
+http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="USA;CVTV",HGTV
+https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="USA;CVTV",History
+https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cq2T7Bf.png" group-title="USA;CVTV",Laff
+http://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0Xm6Ca.png" group-title="USA;CVTV",Lifetime
+https://cvtv.cvalley.net/hls/LifetimeHD/LifetimeHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0UjyRH.png" group-title="USA;CVTV",MeTV
+http://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA;CVTV",NBC (KYOU) (CST)
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA;CVTV",PBS (KCPT) (CST)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X53CnlC.png" group-title="USA;CVTV",TBS
+https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UYWQwQ.png" group-title="USA;CVTV",TNT
+https://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="USA;CVTV",USA Network
+https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
