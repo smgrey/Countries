@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="---- SENDER DÄNEMARK ----" tvg-name="---- SENDER DÄNEMARK ----" tvg-shift="0" radio="" tvg-logo="" group-title="DK",---- SENDER DÄNEMARK ----
+https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
+#EXTINF:-1,TV Aarhus
+https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
+#EXTINF:-1,KKR TV
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV2 Bornholm" tvg-id="TV2bornholm.dk" group-title="DÄNEMARK" tvg-logo="",TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV2 Fyn" tvg-id="TV2fyn.dk" group-title="DÄNEMARK" tvg-logo="",TV2 Fyn
+https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8?referrer=aHR0cHM6Ly93d3cudHYyZnluLmRr&playSessionId=d59870a6-313c-ead3-3510-cb5123b228f1
+#EXTINF:-1,TV2 Lorry
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+#EXTINF:-1,TV2 Midvest
+http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/t/Ue-Gu9xZZqKtozF3ghcQeQ/index-s32.m3u8
+#EXTINF:-1,TV2 Ost
+http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73kKZD7wBe4g/index-s32.m3u8
+#EXTINF:-1,TV2 Ostjylland
+https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
+#EXTINF:-1,TV Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-id="---- SENDER ISLAND ----" tvg-name="---- SENDER ISLAND ----" tvg-shift="0" radio="" tvg-logo="" group-title="",---- SENDER ISLAND ----
+https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
+#EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="" group-title="ISLAND",KVF Faroe Island
+https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
+#EXTINF:-1 tvg-name="N4" tvg-id="N4" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ISLAND",N4
+http://tv.vodafoneplay.is/n4/03.m3u8
+#EXTINF:-1 tvg-name="RÚV 1 Island" tvg-id="RÚV 1 Island" tvg-logo="https://i.imgur.com/9M7hsjR.png" group-title="ISLAND",RÚV 1 Island
+https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e52bd3874-1548832268/ruv/ruverl/index/stream1.m3u8
+#EXTINF:-1 tvg-id="---- SENDER SCHWEDEN ----" tvg-name="---- SENDER SCHWEDEN ----" tvg-shift="0" radio="" tvg-logo="" group-title="SE",---- SENDER SCHWEDEN ----
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1,Aftonbladet TV
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1,ATG Live
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1,Dagens Industri TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kt88QxS.png" group-title="SCHWEDEN",Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
+#EXTINF:-1,Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1,Kanal 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1,OK Malmö
+https://edge-154-43-130-34-se-inxn-sto02.solidtango.com/edge/_8ynhbua3_/8ynhbua3/playlist.m3u8
+#EXTINF:-1,OK Stockholm
+https://edge-80-252-162-14-se-iponly-dch.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0l2zIJF.png" group-title="SCHWEDEN",Oppna Kanalen
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1,TBN Nordic
+https://tbnnordic_worker-02.stream.boxigy.com/hls/live_1/index.m3u8
+#EXTINF:-1,TV 4 
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+#EXTINF:-1,TV 4 Nyheterna 
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
+#EXTINF:-1,TV 4 Svensk Politik
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
+#EXTINF:-1,Västmanlands Television
+https://edge-80-252-162-14-se-iponly-dch.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
+#EXTINF:-1 tvg-id="---- SENDER NORWEGEN ----" tvg-name="---- SENDER NORWEGEN ----" tvg-shift="0" radio="" tvg-logo="" group-title="NO",---- SENDER NORWEGEN ----
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BO9f3sD.png" group-title="NORWAY",Fatstone TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1,Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1,Frikanalen
+http://video.nuug.no/frikanalen.webm
+#EXTINF:-1,MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,Stortinget Nett-TV
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 tvg-id="---- SENDER FINNLAND ----" tvg-name="---- SENDER FINNLAND ----" tvg-shift="0" radio="" tvg-logo="" group-title="FI",---- SENDER FINNLAND ----
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8?
+#EXTINF:-1,YLE TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1,YLE TV2
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_1064_av-p.m3u8
