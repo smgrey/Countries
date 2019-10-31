@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="******************** CHINA ***********" tvg-id="" group-title="" tvg-logo="",******************* CHINA ***********
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="CHINA",Canal Macau (Opt-1) (New!)
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1??.png" group-title="CHINA",CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_??.svg/1200px-CCTV-2_??.svg.png" group-title="CHINA",CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiTPyCa.png" group-title="CHINA",CCTV-3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_????.svg/1280px-CCTV-4_????.svg.png" group-title="CHINA",CCTV-4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5??.png" group-title="CHINA",CCTV-5 (New!)
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6??.png" group-title="CHINA",CCTV-6 (New!)
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7????.png" group-title="CHINA",CCTV-7 (New!)
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8???.png" group-title="CHINA",CCTV-8 (New!)
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9??.png" group-title="CHINA",CCTV-9 (New!)
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10??.png" group-title="CHINA",CCTV-10 (New!)
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/svQpgoL.png" group-title="CHINA",CCTV-11 (New!)
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12????.png" group-title="CHINA",CCTV-12 (New!)
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="CHINA",CCTV-13 (Opt-1) (New!)
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14??.png" group-title="CHINA",CCTV-14 (New!)
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15??.png" group-title="CHINA",CCTV-15 (New!)
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fWVXqKc.png" group-title="CHINA",China Business Network (Opt-3)
+https://w1live.livecdn.yicai.com/live/cbn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 1 (New!)
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 2 (New!)
+http://stream.chinactv.com/ctv2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 3 (New!)
+http://stream.chinactv.com/ctv3/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 4 (New!)
+http://stream.chinactv.com/ctv4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7flJQne.png" group-title="CHINA",China CTV 5 (New!)
+http://stream.chinactv.com/ctv5/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PD5aLJH.png" group-title="CHINA",Hebei TV (New!)
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="CHINA",Hong Kong Open TV (HK) (Opt-1) (New!)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="CHINA",Hong Kong Open TV (HK) (Opt-2) (New!)
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eURZSs4.png" group-title="CHINA",JLE TV Jilin (Opt-1) (New!)
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_500k_flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eURZSs4.png" group-title="CHINA",JLE TV Jilin (Opt-2) (New!)
+http://stream.jletv.cn/live/fff4632e84194739805546e86a829581?fmt=h264_800k_flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV Macau (Opt-1)
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV Macau (Opt-2)
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="CHINA",Max Financial Media (New!)
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" group-title="CHINA",Nongan News (New!)
+http://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fmzC0MN.png" group-title="CHINA",RTHK TV 32 (HK) (Opt-2)
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ZcRy1Q.png" group-title="CHINA",Sichuan Movie Channel (New!)
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvOPoTN.png" group-title="CHINA",SinoVision (US) (Opt-3)
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Macau (Opt-1) (New!)
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Sports Macau (Opt-1) (New!)
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Info. Macau (Opt-1) (New!)
+http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59lAsao.png" group-title="CHINA",TDM Macau Satelite (Opt-1) (New!)
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aM6u55u.png" group-title="CHINA",Tonghua TV 1 Jilin (New!)
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNb5dzx.png" group-title="CHINA",TVB Finance & Info. (HK) (Opt-1) (New!)
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNb5dzx.png" group-title="CHINA",TVB Finance & Info. (HK) (Opt-2) (New!)
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil/mobilehd_financeintl.smil/chunklist_w1310863395_b1096000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdkf5yp.png" group-title="CHINA",UChannel TV (US) (New!)
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCQfNii.png" group-title="CHINA",Universal TV (HK) (New!)
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xagdGLo.png" group-title="CHINA",Yanbian TV Jilin (New!)
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/co6VgvJ.png" group-title="CHINA",Yanbian TV 1 Jilin (New!)
+http://live.ybtvyun.com/video/s10016-ybtv1-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wD4jLTK.png" group-title="CHINA",Yanbian TV 2 Jilin (New!)
+http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin (Opt-1) (New!)
+http://stream.zhystv.com/yset/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDzWK3L.png" group-title="CHINA",Yushu TV Jilin (Opt-2) (New!)
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
+http://www.lengua.com/anthems/Taiwan.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVCRScn.png" group-title="TAIWAN",BabyFirst (US) (New!)
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="TAIWAN",FTV News (Opt-1)
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rLvUKD.png" group-title="TAIWAN",Next TV (Opt-1) (New!)
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T4KNKfn.png" group-title="TAIWAN",Sportscast (New!)
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",~ Singapore TV ~
+http://www.lengua.com/anthems/Singapore.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="SINGAPORE",Mediacorp Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
