@@ -4,6 +4,8 @@
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-name="Box Hits" tvg-id="Box Hits" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/220px-Box_hits.svg.png",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNiWKvL.png" group-title="ÖSTERREICH;MUSIK",Brandnite TV
+https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE)" tvg-id="DeLuxeMusic.de" group-title="MUSIK" tvg-logo="http://logos.zattic.com/images/channels/logos/3fd5c0560659de243ed1/black/84x48.png",DELUXEMUSIC (DE)
@@ -18,8 +20,10 @@ http://nstream17.gotv.at:1938/live/gotvlive_360p/playlist.m3u8
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://desibox.0hi.me/1.png" group-title="MUSIK",JattTV
 https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
-#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="Kronehit TV" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KroneHit TV" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="ÖSTERREICH;MUSIK",KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SCHWEIZ;MUSIK",LFM TV
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="MUSIK",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-name="MTV HD" tvg-id="MTVGermany.de" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MTV_Music_24.png" group-title="MUSIK",MTV HD
@@ -48,13 +52,15 @@ http://tv.105.net:1935/live/rmc1/playlist.m3u8
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="MUSIK",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="MUSIK",Rathergood Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="UK;MUSIK",Rathergood Radio
 https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Musik" tvg-id="Retro Musik" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/320px-Retro_Music_TV_logo.png",Retro Musik
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="USA;MUSIK",Sonus FM TV
+http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="Spirit TV" tvg-id="Spirit TV" group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xUfIz3KJC-Dg1J6KHypDnwdBn8EDCrBIbEEdkQC_RI3NtwO",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-name="The Country Network" tvg-id="The Country Network" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Country_Network_Logo.png/200px-The_Country_Network_Logo.png",The Country Network
+#EXTINF:-1 tvg-name="The Country Network" tvg-id="The Country Network" group-title="USA;MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Country_Network_Logo.png/200px-The_Country_Network_Logo.png",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
