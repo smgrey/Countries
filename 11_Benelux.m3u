@@ -2,145 +2,245 @@
 
 #EXTINF:-1 tvg-id="******************* HOLLAND ************" tvg-name="******************* HOLLAND ************" tvg-shift="0" radio="" tvg-logo="" group-title="NL",******************* HOLLAND ************
 http://studiohilversum.6fm.nl:7007/hls/6fmtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UuVwFHP.png" group-title="HOLLAND",1Twente
+http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6FM Hilversum" tvg-name="6FM Hilversum" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",6FM Hilversum
 http://studiohilversum.6fm.nl:7007/hls/6fmtv.m3u8
 #EXTINF:-1 tvg-id="90TV" tvg-name="90TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",90TV
 https://media.regio90.nl/hls/regio90-max.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HOLLAND",AAVISIE
+http://media.streamone.net/hlslive/account=nYRIFIaZSIY2/livestream=CZAJjY-KKkc2/events.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="HOLLAND",BNR Nieuwsradio
+http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3omdaMe.jpg" group-title="HOLLAND",Breda Nu
+https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82/live-audio101_dut=128000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="HOLLAND",BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BP322Ly.png" group-title="HOLLAND",Centraal TV Weststellingwerf
+http://streams.uitzending.tv/centraaltv/centraaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="HOLLAND",Den Haag TV
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="HOLLAND",DNO Streek TV
+http://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-id="DR TV" tvg-name="DR TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",DR TV
 https://media.streamone.net/hlslive/account=DaANmMeBRx80/livestream=j4AMuusRAlc0/j4AMuusRAlc0.m3u8
 #EXTINF:-1 tvg-id="DTV" tvg-name="DTV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",DTV
 http://ms2.mx-cd.net/tv/143-646311/DTV_Den_Bosch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV Uden" tvg-name="DTV Uden" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",DTV Uden
-https://ms2.mx-cd.net/tv/159-661277/DTV_Uden.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Ede TV" tvg-name="Ede TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Ede TV
+https://media.streamone.net/hlslive/account=UyctFIqZi4Mk/livestream=0QMsNK8JigAA/live-audio101_dut=128000-video=1400000.m3u8
+#EXTINF:-1 tvg-id="Ede TV" tvg-name="Ede TV" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="HOLLAND",Ede TV
 http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Feel Good TV" tvg-name="Feel Good TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Feel Good TV
 https://media.streamone.net/hlslive/account=HQQBFe-bAB4S/livestream=lwQBr4-YDU8y/lwQBr4-YDU8y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7AC8etU.png" group-title="HOLLAND",Gigant FM
+http://streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="HOLLAND",GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="HLS Live" tvg-name="HLS Live" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",HLS Live
 http://media.streamone.net/hlslive/account=nYRIFIaZSIY2/livestream=CZAJjY-KKkc2/CZAJjY-KKkc2.m3u8
-#EXTINF:-1 tvg-id="IJsselland TV" tvg-name="IJsselland TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",IJsselland TV
-https://media.streamone.net/hlslive/account=jQRJNcMbSV0S/livestream=FwZEvacBRo0U/events(1495101497)/live-audio_1=96000-video=304000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QV73Guo.jpg" group-title="HOLLAND",Klipkar TV
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
 #EXTINF:-1 tvg-id="Merwe TV" tvg-name="Merwe TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Merwe TV
 http://media.streamone.net/hlslive/account=j4QJMY4bCVU2/livestream=krINAu6TPoQQ/krINAu6TPoQQ.m3u8
-#EXTINF:-1 tvg-id="NPOnieuws.nl" tvg-name="NPO_Nieuws" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NPO_Nieuws_logo.png/800px-NPO_Nieuws_logo.png" group-title="HOLLAND",NPO Nieuws
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
-#EXTINF:-1 tvg-id="NPOPolitiek101.nl" tvg-name="NPO_Politiek" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NPO_Politiek_logo.png/1024px-NPO_Politiek_logo.png" group-title="HOLLAND",NPO Politiek
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
-#EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep_Brabant" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Omroep_Brabant_logo.jpg" group-title="HOLLAND",Omroep Brabant
-https://d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="HOLLAND",Meer TV
+http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gtlwWbJ.png" group-title="HOLLAND",Norderney 192 TV
+http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wc0CUVt.jpg" group-title="HOLLAND",Omroep Assen
+http://media.streamone.net/hlslive/account=BpRIEq4LT84W/livestream=IjYFI8qBJM0W/events.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep_Brabant" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="HOLLAND",Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" group-title="HOLLAND",Omrop Fryslan
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
 #EXTINF:-1 tvg-id="OmroepGelderland.nl" tvg-name="Omroep_Gelderland" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Omroep_Gelderland.png" group-title="HOLLAND",Omroep Gelderland
 http://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" group-title="HOLLAND",Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1uxxeWX.png" group-title="HOLLAND",Omroep P&M
+http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vzA35yi.png" group-title="HOLLAND",Omroep Súdwest
+http://media.streamone.net/hlslive/account=E7RAPuILTJc2/livestream=-ZZMK-aARoY2/events.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="HOLLAND",Omroep Tilburg
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8
 #EXTINF:-1 tvg-id="Omroep West" tvg-name="Omroep West" tvg-shift="0" radio="" tvg-logo="https://pietervanforeest.nl/img/responsive/module/news_img/tv_west_m.png" group-title="HOLLAND",Omroep West
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-id="OOG TV" tvg-name="OOG TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",OOG TV
-https://media.streamone.net/hlslive/account=BAAIMu-JR8Yy/livestream=ERREOY4AeMUU/events(1495075135)/live-audio_1=96000-video=304000.m3u8
+#EXTINF:-1 tvg-id="Omroep Zeeland NL" tvg-name="Omroep Zeeland NL" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="HOLLAND",Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OOG TV" tvg-name="OOG TV" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/ZeGhaT4.jpg" group-title="HOLLAND",OOG TV
+http://media.streamone.net/hlslive/account=BAAIMu-JR8Yy/livestream=ERREOY4AeMUU/events.m3u8
 #EXTINF:-1 tvg-id="Open Rotterdam" tvg-name="Open Rotterdam" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Open Rotterdam
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="HOLLAND",Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="HOLLAND",Radio 10
+http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="HOLLAND",Radio 538
+http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8xWxeG.png" group-title="HOLLAND",Radio Beverwijk
+http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="HOLLAND",Radio Veronica
+http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T2K6xqz.jpg" group-title="HOLLAND",Redlight Radio
+http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="HOLLAND",Regio TV Nieuws
+http://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
 #EXTINF:-1 tvg-id="RN7.nl" tvg-name="RN 7 TV" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RN7_Logo.jpg/32px-RN7_Logo.jpg" group-title="HOLLAND",RN 7 TV
 https://media.streamone.net/hlslive/account=GCNkoILS_cQE/livestream=mwNspKpCuN4g/mwNspKpCuN4g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EevQ6GV.jpg" group-title="HOLLAND",RTV 1
+http://media.streamone.net/hlslive/account=lqRIFo4bDtQ2/livestream=X7ZMrsKBXl8S/events.m3u8
 #EXTINF:-1 tvg-id="RTV Amstelveen" tvg-name="RTV Amstelveen" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Amstelveen
 https://stream.rtva.nl/live/zender.m3u8
-#EXTINF:-1 tvg-id="RTV Dordrecht" tvg-name="RTV Dordrecht" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Dordrecht
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="HOLLAND",RTV Arnhem
+http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 tvg-id="RTV Dordrecht" tvg-name="RTV Dordrecht" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="HOLLAND",RTV Dordrecht
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsD7Tsu.png" group-title="HOLLAND",RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 tvg-id="RTV Hattem" tvg-name="RTV Hattem" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Hattem
-https://media.streamone.net/hlslive/account=D5RJNYcbAV42/livestream=kJZMIKsTN0cQ/events(1488891536)/live-audio_1=96000-video=904000.m3u8
-#EXTINF:-1 tvg-id="RTV IJmond" tvg-name="RTV IJmond" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV IJmond
-https://media.streamone.net/hlslive/account=uBRtscwbzU6A/livestream=9BYkI8CRqdei/events(1546424767)/live-audio_1=96000-video=603968.m3u8
+http://media.streamone.net/hlslive/account=D5RJNYcbAV42/livestream=kJZMIKsTN0cQ/kJZMIKsTN0cQ.m3u8
 #EXTINF:-1 tvg-id="RTV Katwijk" tvg-name="RTV Katwijk" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Katwijk
-https://media.streamone.net/hlslive/account=lIRAF8ebBgYW/livestream=Z6IFJIqBaJcS/events(1546424756)/live-audio_1=96000-video=1904000.m3u8
+https://media.streamone.net/hlslive/account=lIRAF8ebBgYW/livestream=Z6IFJIqBaJcS/live-audio101_dut=128000-video=2200000.m3u8
 #EXTINF:-1 tvg-id="RTV Krimpenerwaard" tvg-name="RTV Krimpenerwaard" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Krimpenerwaard
 http://media.streamone.net/hlslive/account=f6QJI4YAfUQW/livestream=bbJII-8AOM82/bbJII-8AOM82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" group-title="HOLLAND",RTV Maastricht
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QNEol97.jpg" group-title="HOLLAND",RTV Meppel
+http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/events.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="HOLLAND",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="HOLLAND",RTV Noord Extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xC9hOVK.png" group-title="HOLLAND",RTV Noordoost Friesland
+http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HOLLAND",RTV Oost
+http://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
 #EXTINF:-1 tvg-id="RTV Papendrecht" tvg-name="RTV Papendrecht" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Papendrecht
 http://media.streamone.net/hlslive/account=FIBJE-uZTh4W/livestream=7YJFMKoTBcYW/7YJFMKoTBcYW.m3u8
-#EXTINF:-1 tvg-id="RTV Purmerend" tvg-name="RTV Purmerend" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Purmerend
-https://media.streamone.net/hlslive/account=lpYJN-aLBxY2/livestream=dTIFM88BRUQy/events(1546424781)/live-audio_1=96000-video=904000.m3u8
 #EXTINF:-1 tvg-id="RTV Ridderkerk" tvg-name="RTV Ridderkerk" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Ridderkerk
-https://media.streamone.net/hlslive/account=hLJAN4qJT08W/livestream=pyQMp4eSYpUW/events(1555689361)/live-audio_1=96000-video=904000.m3u8
+https://media.streamone.net/hlslive/account=hLJAN4qJT08W/livestream=pyQMp4eSYpUW/live-audio101_dut=128000-video=1400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TYsLlr0.png" group-title="HOLLAND",RTV Rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 #EXTINF:-1 tvg-id="RTV Ronde Venen" tvg-name="RTV Ronde Venen" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",RTV Ronde Venen
 http://media.streamone.net/hlslive/account=gCRIPoIbRB0W/livestream=rrIMh6YQSxQW/rrIMh6YQSxQW.m3u8
-#EXTINF:-1 tvg-id="RTV Rijnmond" tvg-name="RTV Rijnmond" tvg-shift="0" radio="" tvg-logo="https://www.rijnmond.nl/Content/Images/rijnmond/logo.png" group-title="HOLLAND",RTV Rijnmond
-http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5cVkPR3.png" group-title="HOLLAND",RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/86oiZRV.jpg" group-title="HOLLAND",RTV Westerwolde
+http://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
+#EXTINF:-1 tvg-id="Salland 1" tvg-name="Salland.nl" tvg-logo="" group-title="HOLLAND",Salland 1
+https://media.streamone.net/hlslive/account=jQRJNcMbSV0S/livestream=FwZEvacBRo0U/live-audio101_dut=128000-video=260000.m3u8
 #EXTINF:-1 tvg-id="Salto 1" tvg-name="Salto 1" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Salto 1
-https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/events(1546427423)/live-audio_1=96000-video=304000.m3u8
+https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
 #EXTINF:-1 tvg-id="Salto 2" tvg-name="Salto 2" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Salto 2
-https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=cgYEH-MAKNUy/events(1546425262)/live-audio_1=96000-video=904000.m3u8
+https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=cgYEH-MAKNUy/cgYEH-MAKNUy.m3u8
+#EXTINF:-1 tvg-id="Salto 3" tvg-name="Salto 2" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Salto 3
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 tvg-id="Salto 4" tvg-name="Salto 2" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Salto 4
+https://salto-streams.nl/hls/sotv2_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w60x1M7.jpg" group-title="HOLLAND",Simone FM
+http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HOLLAND",Streekomroep START
+http://media.streamone.net/hlslive/account=gbYAOsqLTJ8y/livestream=YzIFOeIABwUW/events.m3u8
 #EXTINF:-1 tvg-id="Studio 040" tvg-name="Studio 040" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Studio 040
-http://ms7.mx-cd.net/tv/117-475839/Studio040.smil/chunklist_w1814483917_b1894400_slNLD.m3u8
+https://media.streamone.net/hlslive/account=N4cJTOpAFtum/livestream=NTNITYLSXgiG/live-audio101_dut=128000-video=2200000.m3u8
 #EXTINF:-1 tvg-id="Studio Rheden TV" tvg-name="Studio Rheden TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Studio Rheden TV
-http://media.streamone.net/hlslive/account=BoJIM8KLBlwS/livestream=NpIEhMsSbsc2/events(1488657272)/live-audio_1=96000-video=904000.m3u8
+https://media.streamone.net/hlslive/account=BoJIM8KLBlwS/livestream=NpIEhMsSbsc2/live-audio101=128000-video=800000.m3u8
 #EXTINF:-1 tvg-id="TV 350" tvg-name="TV 350" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",TV 350
-http://media.streamone.net/hlslive/account=VzRMPeoCUJww/livestream=RwZNOeaQWVwU/events(1495617319)/live-audio_1=96000-video=304000.m3u8
+https://media.streamone.net/hlslive/account=VzRMPeoCUJww/livestream=RwZNOeaQWVwU/live-audio101_dut=128000-video=1400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="HOLLAND",TV Ellef
+http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Hoeksche" tvg-name="TV Hoeksche" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",TV Hoeksche
 https://media.streamone.net/hlslive/account=UzZBC8eZb1Qy/livestream=QCYIDe8Lb8Y2/QCYIDe8Lb8Y2.m3u8
-#EXTINF:-1 tvg-id="TV Valkenburg" tvg-name="TV Valkenburg" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",TV Valkenburg
+#EXTINF:-1 tvg-id="TV Valkenburg" tvg-name="TV Valkenburg" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="HOLLAND",TV Valkenburg
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8 
 #EXTINF:-1 tvg-id="UStad" tvg-name="UStad" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",UStad
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:-1 tvg-id="WEEFF" tvg-name="WEEFF" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",WEEFF
+#EXTINF:-1 tvg-id="WEEFF" tvg-name="WEEFF" tvg-logo="https://i.imgur.com/AcDgf25.jpg" group-title="HOLLAND",WEEFF
 http://ms2.mx-cd.net/tv/129-562449/WEEFF_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Weert TV" tvg-name="Weert TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Weert TV
 http://ms2.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WOS TV" tvg-name="WOS TV" tvg-shift="0" radio="" tvg-logo="http://www.wos.nl/views/wos/images/woslogo.jpg" group-title="HOLLAND",WOS TV
+#EXTINF:-1 tvg-id="WOS TV" tvg-name="WOS TV" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/UtOWySG.jpg" group-title="HOLLAND",WOS TV
 http://ms2.mx-cd.net/tv/99-475825/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KrEBHLw.jpg" group-title="HOLLAND",ZO!34
+http://558bd16067b67.streamlock.net/rtvemmen_tv/rtvemmen_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qThQP4f.jpg" group-title="HOLLAND",ZO-NWS
+http://media.streamone.net/hlslive/account=FjJBFsIbBtw2/livestream=1QJFCqsQeMwQ/events.m3u8
 #EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",Zuid West TV 
 http://media.streamone.net/hlslive/account=EbAIGq6LRMU2/livestream=9RBFKqaCTQ02/9RBFKqaCTQ02.m3u8
-#EXTINF:-1 tvg-id="******************** BELGIEN ************" tvg-name="******************** BELGIEN ************" tvg-shift="0" radio="" tvg-logo="" group-title="",******************** BELGIEN ************
+#EXTINF:-1 tvg-id="******************** BELGIEN ************" tvg-name="******************** BELGIEN ************" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",******************** BELGIEN ************
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Antenne Centre" tvg-name="Antenne Centre" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Antenne Centre ?
-https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Antenne Centre TV" tvg-name="ACTV.be" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Antenne Centre TV
-https://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=2600000.m3u8
+#EXTINF:-1 tvg-id="Antenne Centre TV" tvg-name="ACTV.be" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="BELGIEN",Antenne Centre TV
+http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-id="ATV.be" tvg-name="ATV.be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIEN",ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="BEL Radio PROS" tvg-name="BEL Radio PROS" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",BEL Radio PROS
 https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
 #EXTINF:-1 tvg-id="BEL RTL" tvg-name="BEL RTL" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",BEL RTL
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
-#EXTINF:-1 tvg-id="BRUZZ" tvg-name="BRUZZ" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",BRUZZ
-https://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/AZwy8w.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Canal C
+#EXTINF:-1 tvg-id="BRUZZ" tvg-name="BRUZZ" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="BELGIEN",BRUZZ
+http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="BELGIEN",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="BELGIEN",Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Zoom" tvg-name="Canal Zoom" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Canal Zoom
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="City Music" tvg-name="City Music" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",City Music
-https://5592f056abba8.streamlock.net/citytv/citytv/chunklist_w2109328455.m3u8
+#EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="BELGIEN",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="City Music" tvg-name="City Music" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="BELGIEN",City Music
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EbS" tvg-logo="http://i.imgur.com/M1vn8hv.png" group-title="BELGIEN",EbS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
+#EXTINF:-1 tvg-id="een BE" tvg-name="Een" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="BELGIEN",Een
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="BELGIEN",Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/AK4e8O.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-id="Fun Radio" tvg-name="Fun Radio" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="BELGIEN",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ketnet Junior" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="BELGIEN",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="BELGIEN",LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-id="MaTélé" tvg-name="MaTélé" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",MaTélé
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
 #EXTINF:-1 tvg-id="MNM" tvg-name="MNM" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",MNM
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-id="NoTélé" tvg-name="NoTélé" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",NoTélé
-https://streaming-dash.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-#EXTINF:-1,NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:-1 tvg-id="NoTélé" tvg-name="NoTélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIEN",NoTélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q-Music" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIEN;MUSIK",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-id="Radio Contact" tvg-name="Radio Contact" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="Radio Studio Brussell" tvg-name="Radio Studio Brussell" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Radio Studio Brussell
 https://live-vrt-verizon.ebuflow.com/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="RTBF Auvio la Une" tvg-name="RTBF Auvio la Une" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",RTBF Auvio la Une
-http://rtbf.l3.freecaster.net/live/rtbf/geo/drm/laune-audio_1=128000-video=2000000.m3u8
-#EXTINF:-1 tvg-id="RTBF Auvio La Deux" tvg-name="RTBF  Auvio La Deux" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",RTBF Auvio La Deux
-http://rtbf.l3.freecaster.net/live/rtbf/geo/drm/ladeux-audio_1=128000-video=2000000.m3u8
-#EXTINF:-1 tvg-id="RTBF Auvio La Trois" tvg-name="RTBF  Auvio La Trois" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",RTBF Auvio La Trois
-http://rtbf.l3.freecaster.net/live/rtbf/geo/drm/latrois-audio_1=128000-video=2000000.m3u8
-#EXTINF:-1 tvg-id="RTC Tele Liege" tvg-name="RTC Tele Liege" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",RTC Tele Liege
-https://media.webtvlive.eu/rtc/_definst_/smil:live.smil/chunklist_w1776837958_b1128000_tkdG9rZW5lbmR0aW1lPTE1NTY1MzIwMzMmdG9rZW5zdGFydHRpbWU9MTU1NjUyMTIzMyZ0b2tlbmhhc2g9OC1XdWprbTlTQUs3bm12S3Q5MlkyU0VLOHdfVFd6ei1ubXZaV3B3QlpLRT0=.m3u8
-#EXTINF:-1 tvg-id="RTL TVI" tvg-name="RTL TVI" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",RTL TVI
+#EXTINF:-1 tvg-id="RTL TVI" tvg-name="RTL TVI" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="BELGIEN",RTL TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="Télé Bruxelles BX1" tvg-name="Télé Bruxelles BX1" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Télé Bruxelles BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Télésambre" tvg-name="Télésambre" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Télésambre
-https://tvl-live.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=512000.m3u8
-#EXTINF:-1 tvg-id="TVcom" tvg-name="TVcom" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",TVcom
+#EXTINF:-1 tvg-id="" tvg-name="Tele MB" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="BELGIEN",Tele MB
+http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-id="Télésambre" tvg-name="Télésambre" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIEN",Télésambre
+https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="BELGIEN",TV Lux
+https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w167261518.m3u8
+#EXTINF:-1 tvg-id="TVcom" tvg-name="TVcom" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="BELGIEN",TVcom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVL" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="BELGIEN",TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-id="Vedia" tvg-name="Vedia" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",Vedia
 https://5a0b00d270652.streamlock.net/live/vedia-live/playlist.m3u8
-#EXTINF:-1 tvg-id="VTM Nieuws" tvg-name="VTM Nieuws" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIEN",VTM Nieuws
-http://apple.news.stream.vmmacdn.be/iphone/iphone_high.m3u8
-#EXTINF:-1 tvg-id="******************* LUXENBURG ************" tvg-name="******************* LUXENBURG ************" tvg-shift="0" radio="" tvg-logo="" group-title="",******************* LUXENBURG ************
-http://live-edge05.rtl.lu/channel1/smil:channel1/chunklist_b4168000_slltz.m3u8
-#EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele Letzeburg" tvg-shift="0" radio="" tvg-logo="" group-title="LUXENBURG",RTL Tele Letzeburg
-http://live-edge05.rtl.lu/channel1/smil:channel1/chunklist_b4168000_slltz.m3u8
-#EXTINF:-1 tvg-id="RTL Tele 2 Letzeburg" tvg-name="RTL Tele 2 Letzeburg" tvg-shift="0" radio="" tvg-logo="" group-title="LUXENBURG",RTL Tele 2 Letzeburg
-http://live-edge05.rtl.lu/channel2/smil:channel2/chunklist_b4168000_slltz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="BELGIEN",WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN:MUSIK",XITE
+https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="******************* LUXENBURG ************" tvg-name="******************* LUXENBURG ************" tvg-shift="0" radio="" tvg-logo="" group-title="HOLLAND",******************* LUXENBURG ************
+https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Chamber TV" tvg-name="Chamber TV" tvg-shift="0" radio="" tvg-logo="" group-title="LUXENBURG",Chamber TV
-https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/chunklist_w1960890990_b1128000.m3u8
+https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eldoradio TV" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="LUXENBURG",Eldoradio TV
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8
+#EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele Letzeburg" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXENBURG",RTL Tele Letzeburg
+http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTL Tele 2 Letzeburg" tvg-name="RTL Tele 2 Letzeburg" tvg-shift="0" radio="" tvg-logo="" group-title="LUXENBURG",RTL Tele 2 Letzeburg
+http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MCJ" tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="LUXENBURG",TV MCJ
+https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
