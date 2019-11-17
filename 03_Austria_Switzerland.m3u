@@ -10,7 +10,7 @@ https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c6
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="FS1 Salzburg" tvg-id="FS1 Salzburg" tvg-logo="https://i.imgur.com/P5pc813.png" group-title="ÖSTERREICH",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="ÖSTERREICH",Hitradio Ö3
+#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="ÖSTERREICH",Hitradio Ö3 (Webradio)
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="ÖSTERREICH",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
@@ -58,16 +58,24 @@ https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039
 http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SCHWEIZ;MUSIK",LFM TV
 https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SCHWEIZ",Musig24
+#EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SCHWEIZ;MUSIK",Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QS24" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="SCHWEIZ",QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 3i" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SCHWEIZ",Radio 3i
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3i (Webradio)" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SCHWEIZ",Radio 3i (Webradio)
 http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dANlbjX.png" group-title="SCHWEIZ",Radio Argovia 90.3 FM Aarau (Webradio)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SCHWEIZ;MUSIK",Radio Pilatus
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SCHWEIZ",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w847296835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SCHWEIZ",RTS Couleur 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogIKHVJ.png" group-title="SCHWEIZ",RTS 1
+https://s1.tntendirect.com/rts1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SCHWEIZ",RTS Couleur 3 (Webradio)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://sportalhd.com/sportalhd.png" group-title="SCHWEIZ",Sportal HD
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 #EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="SCHWEIZ" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png",Tele M1 HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="Telebasel" tvg-id="TeleBasel.ch" group-title="SCHWEIZ" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png",Telebasel
@@ -82,3 +90,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/0_josi
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="SCHWEIZ" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
 http://livevideo.infomaniak.com/streaming/livecast/tvo/playlist.m3u8
+#EXTINF:-1 tvg-name="*************** Lichtenstein ************" tvg-id="" group-title="" tvg-logo="",*************** Lichtenstein ************
+http://31.10.19.12:8066/live/999/0.m3u8
+#EXTINF:-1 tvg-name="Kommu TV" tvg-id="KommuTV.li" group-title="LICHTENSTEIN" tvg-logo="https://i.imgur.com/hNA8pC9.png",Kommu TV
+http://31.10.19.12:8066/live/999/0.m3u8
