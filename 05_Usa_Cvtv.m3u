@@ -7,8 +7,14 @@ https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JS08AAb.png" group-title="USA;CVTV",Bounce TV
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9SouED.png" group-title="USA;CVTV",CNN HD
+https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IcAM9uw.png" group-title="USA;CVTV",Cozi TV
 http://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1 tvg-name="Fox News HD" tvg-id="FOX News US" group-title="USA;CVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",Fox News HD
+https://cvtv.cvalley.net/hls/FoxNewsHD/FoxNewsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G6cIBwe.png" group-title="USA;CVTV",Fox Sports 1
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UueddD1.png" group-title="USA;CVTV",Grit
 http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="USA;CVTV",HGTV
