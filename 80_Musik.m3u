@@ -26,34 +26,36 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="MUSIK",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-name="m2o Tv" tvg-id="m2o Tv" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-name="MTV HD" tvg-id="MTVGermany.de" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MTV_Music_24.png" group-title="MUSIK",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-name="MTV Music 24" tvg-id="MTVGermany.de" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MTV_Music_24.png" group-title="MUSIK",MTV Music 24
 http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
 #EXTINF:-1 tvg-name="MTV Norway" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MTV_Music_24.png",MTV Norway
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-name="m2o Tv" tvg-id="m2o Tv" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-name="NRJ HITS TV" tvg-id="NRJ12.fr" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png",NRJ HITS TV
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SCHWEIZ;MUSIK",Musig24
+https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 tvg-name="Ocko TV" tvg-id="Ocko TV" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%C3%92CKO_Hudebn%C3%AC_TV_Logo.svg/250px-%C3%92CKO_Hudebn%C3%AC_TV_Logo.svg.png",Ocko TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 #EXTINF:-1 tvg-name="Out of Focus TV" tvg-id="Out of Focus TV" tvg-logo="https://i.imgur.com/OAaxN8G.png" group-title="MUSIK",Out of Focus TV
 http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q-Music" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIEN;MUSIK",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="MUSIK",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIK",Radio m20 Lazio
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-name="Radio Monte Carlo" tvg-id="Radio Monte Carlo" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4e/RMC1_Logo.png",Radio Monte Carlo
 http://tv.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SCHWEIZ;MUSIK",Radio Pilatus
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Radiou TV" tvg-id="Radiou TV" group-title="MUSIK" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radiou TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="MUSIK",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="UK;MUSIK",Rathergood Radio
-https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Musik" tvg-id="Retro Musik" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/320px-Retro_Music_TV_logo.png",Retro Musik
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="USA;MUSIK",Sonus FM TV
@@ -66,3 +68,5 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="MUSIK",Vintage Music TV
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN:MUSIK",XITE
+https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
