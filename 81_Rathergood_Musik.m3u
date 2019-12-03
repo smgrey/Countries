@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="************* Rathergood MUSIK **********" tvg-id="" group-title="" tvg-logo="",********** Rathergood MUSIK **********
+https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Radio Live" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Radio Live 
+https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Movies" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Movies
+https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodmovies/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Hits" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Hits
+https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-rathergoodhits/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Dance Classics" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Dance Classics
+https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-rathergooddanceclassics/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Rock" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Rock
+https://streamingserver003.viewtvgroup.com/kapang-media-rgrock/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood 00s" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood 00s
+https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodnoughties/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood 80s" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood 80s
+https://streamingserver000.viewtvgroup.com/kapang-loop-rg80s/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood 90s" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood 90s
+https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergood90s/index.m3u8
