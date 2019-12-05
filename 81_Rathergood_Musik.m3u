@@ -2,19 +2,19 @@
 
 #EXTINF:-1 tvg-name="************* Rathergood MUSIK **********" tvg-id="" group-title="" tvg-logo="",********** Rathergood MUSIK **********
 https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Radio Live" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Radio Live 
+#EXTINF:-1 tvg-name="Rathergood Radio Live" tvg-id="" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rathergoodradiologo.png/330px-Rathergoodradiologo.png",Rathergood Radio Live 
 https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Movies" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Movies
+#EXTINF:-1 tvg-name="Rathergood Movies" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/07/music-from-the-movies-286525101-300x300-260x180.jpg",Rathergood Movies
 https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodmovies/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Hits" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Hits
+#EXTINF:-1 tvg-name="Rathergood Hits" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/08/HITS-260x180.jpg",Rathergood Hits
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-rathergoodhits/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Dance Classics" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Dance Classics
+#EXTINF:-1 tvg-name="Rathergood Dance Classics" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2017/08/DANCE-CLASSICS-260x180.png",Rathergood Dance Classics
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-rathergooddanceclassics/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Rock" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood Rock
+#EXTINF:-1 tvg-name="Rathergood Rock" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/10/rgrock-260x180.jpg",Rathergood Rock
 https://streamingserver003.viewtvgroup.com/kapang-media-rgrock/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood 00s" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood 00s
+#EXTINF:-1 tvg-name="Rathergood 00s" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/08/00s-1-260x180.jpg",Rathergood 00s
 https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodnoughties/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood 80s" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood 80s
+#EXTINF:-1 tvg-name="Rathergood 80s" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/08/s-260x180.png",Rathergood 80s
 https://streamingserver000.viewtvgroup.com/kapang-loop-rg80s/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood 90s" tvg-id="" group-title="MUSIK" tvg-logo="",Rathergood 90s
+#EXTINF:-1 tvg-name="Rathergood 90s" tvg-id="" group-title="MUSIK" tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/07/bigstock-193075030-260x180.jpg",Rathergood 90s
 https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergood90s/index.m3u8
