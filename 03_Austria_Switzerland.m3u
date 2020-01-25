@@ -14,8 +14,8 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="ÖSTERREICH",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-name="Kanal3 - Steiermark" tvg-id="kanal3.tv" group-title="ÖSTERREICH" tvg-logo="https://www.kanal3.tv/2020/gfx/logo_footer.png",Kanal3 - Steiermark
-plugin://plugin.video.youtube/play/?video_id=R1wAGTLbnbs
+#EXTINF:-1 tvg-id="" tvg-name="KT1" tvg-logo="https://www.kt1.at/wp-content/uploads/2019/08/kt1_header_logo.png" group-title="ÖSTERREICH",KT1
+plugin://plugin.video.youtube/play/?video_id=zEntkC6YZT4
 #EXTINF:-1 tvg-id="" tvg-name="KroneHit TV" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="ÖSTERREICH;MUSIK",KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-name="Ländle Tv" tvg-id="laendletv.com" group-title="ÖSTERREICH" tvg-logo="https://i.imgur.com/g2Hdysr.jpg",Ländle Tv
@@ -28,9 +28,7 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist_w1703757698.m3u
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Okto TV" tvg-id="OKTO.at" group-title="ÖSTERREICH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Okto.svg/150px-Okto.svg.png",Okto TV
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:-1 tvg-name="ÖsterreichBlick" tvg-id="oesterreichblick.at" group-title="ÖSTERREICH" tvg-logo="https://i.imgur.com/Wu6SMvb.png",ÖsterreichBlick
-https://ms02.w24.at/vodw24/smil:190426_W24_OeBlick_KW17_tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="ÖSTERREICH",P3tv
+#EXTINF:-1 tvg-id="" tvg-name="P3tv" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="ÖSTERREICH",P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-name="R9 TV" tvg-id="R9Osterreich.at" group-title="ÖSTERREICH" tvg-logo="https://i.imgur.com/Wu6SMvb.png",R9 TV
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
@@ -54,8 +52,6 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:6023-sbr/playl
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SCHWEIZ",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SCHWEIZ",La Tele
-http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SCHWEIZ;MUSIK",LFM TV
 https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SCHWEIZ;MUSIK",Musig24
@@ -70,8 +66,6 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSS
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SCHWEIZ",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w847296835.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ogIKHVJ.png" group-title="SCHWEIZ",RTS 1
-https://s1.tntendirect.com/rts1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SCHWEIZ",RTS Couleur 3 (Webradio)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://sportalhd.com/sportalhd.png" group-title="SCHWEIZ",Sportal HD
