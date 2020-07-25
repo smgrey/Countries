@@ -7,32 +7,34 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="KANADA",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-name="Assemblee Nationale du Quebec" tvg-id="Assemblee Nationale du Quebec" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.svg/320px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.svg.png",Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canada One" tvg-id="Canada One" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/One_TV_Get_Fit.png/150px-One_TV_Get_Fit.png",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canada Star TV" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="KANADA",Canada Star TV
-http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w565131793_b2800000.m3u8
-#EXTINF:-1 tvg-name="Canal 9" tvg-id="Canal 9" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.svg/220px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.svg.png",Canal 9
-http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Canadian Arab TV" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="KANADA",Canadian Arab TV
+http://142.112.39.133:8080/catv.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CNTV" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="KANADA",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 #EXTINF:-1 tvg-name="EET TV" tvg-id="EET TV" tvg-logo="https://eettv.com/wp-content/uploads/2018/05/eet.png" group-title="KANADA",EET TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="KANADA",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Canada" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="KANADA",EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 #EXTINF:-1 tvg-name="Francophonie 24" tvg-id="Francophonie 24" group-title="KANADA" tvg-logo="https://televisiongratuite.com/wp-content/uploads/2018/10/Francophonie-24.jpg",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="KANADA",Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 #EXTINF:-1 tvg-name="ICI RDI HD" tvg-id="ICI RDI HD" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/langfr-200px-ICI_RDI_logo.svg.png",ICI RDI HD
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-name="ICI Télé HD" tvg-id="ICI Télé HD" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/300px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="KANADA",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-name="Knowledge Network" tvg-id="Knowledge Network" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="KANADA",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-name="Legislative Assembly of Ontario" tvg-id="Legislative Assembly of Ontario" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Shield_of_arms_-_Ontario_Leg.jpg/170px-Shield_of_arms_-_Ontario_Leg.jpg",Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miracle Channel" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="KANADA",Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Montreal Greek TV" tvg-id="Montreal Greek TV" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="KANADA",Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV CA" tvg-id="NTV CA" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/CJON-TV.PNG/200px-CJON-TV.PNG",NTV CA
@@ -47,23 +49,23 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="KANADA",QVTV
 https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GurSikh Sabha TV Scarborough" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="KANADA",GurSikh Sabha TV Scarborough
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sardari TV" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="KANADA",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-name="Space" tvg-id="Space" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/150px-Space_logo_2013.svg.png",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-name="TAG TV" tvg-id="TAG TV" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Tag_TV_channel_logo.jpg/150px-Tag_TV_channel_logo.jpg",TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tamil Vision TV" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="KANADA",Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Quebec" tvg-id="Tele Quebec" group-title="KANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/T%C3%A9l%C3%A9-Qu%C3%A9bec_Logo.svg/220px-T%C3%A9l%C3%A9-Qu%C3%A9bec_Logo.svg.png",Tele Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele-V" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="KANADA",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-name="Toronto 360" tvg-id="Toronto 360" group-title="KANADA" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="KANADA",TV 16 Toronto
+#EXTINF:-1 tvg-id="" tvg-name="TV 16 Toronto" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="KANADA",TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele-Quebec" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="KANADA",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-name="TVO Kids" tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="KANADA",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-name="VBS" tvg-id="VBS" group-title="KANADA" tvg-logo="",VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
