@@ -2,16 +2,18 @@
 
 #EXTINF:-1 tvg-name="****************** AUSTRALIEN ************" tvg-id="" group-title="" tvg-logo="",****************** AUSTRALIEN ************
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_2.m3u8
-#EXTINF:-1 tvg-name="3AW Melburne" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/330px-3AW693logo.svg.png",3AW Melburne
+#EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/330px-3AW693logo.svg.png",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 tvg-name="4BC Brisbane" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/4BC-brand.png",4BC Brisbane
-http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/ABC_News_Channel.png/375px-ABC_News_Channel.png",ABC News
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_2.m3u8
-#EXTINF:-1 tvg-id="tv.acctv" tvg-name="ACCTV" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="AUSTRALIEN",ACCTV
-http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://i.imgur.com/Z953ME3.png",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 tvg-name="ABC Kids" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://i.imgur.com/5SZ3kOS.png",ABC Kids
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 tvg-name="ABC Me" tvg-id="" group-title="AUSTRALIEN" tvg-logo="https://i.imgur.com/YlSO3MW.png",ABC Me
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="AUSTRALIEN" tvg-logo="http://i.imgur.com/tzxsdyN.png",ABC News
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-name="Australian News Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Australian_News_Channel_logo.png/330px-Australian_News_Channel_logo.png",Australian News Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-name="Australian  Sports Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/News_Corp_Australia_logo.svg/375px-News_Corp_Australia_logo.svg.png",Australian  Sports Channel
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Australia" tvg-id="australiachannel.com.au" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png",Bloomberg Australia
@@ -22,6 +24,8 @@ http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-id="Racing.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="AUSTRALIEN",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1  tvg-name="Rainbow TV Chinese" tvg-logo="https://i.imgur.com/gRrfqSb.png" group-title="AUSTRALIA",Rainbow TV Chinese
+http://rtvcdn.com.au:8082/TV_GG.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_News_Live_logo.jpg",Sky News Australia Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 2" tvg-id="skynews.com.au" group-title="AUSTRALIEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_News_Live_logo.jpg",Sky News Australia Extra 2
@@ -33,16 +37,14 @@ https://tvnzliveios-i.akamaihd.net/hls/live/248954/tvnzliveios/16320191519/0253/
 #EXTINF:-1 tvg-name="1 News" tvg-id="" group-title="NEUSEELAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/1_News_%28New_Zealand%29.svg/375px-1_News_%28New_Zealand%29.svg.png",1 News
 https://tvnzliveios-i.akamaihd.net/hls/live/248954/tvnzliveios/16320191519/0253/master.m3u8
 #EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEUSEELAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
-https://streamer1.streamhost.org/salive/GMIFLNL/playlist.m3u8
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png" group-title="NEUSEELAND",Maori Television
 http://i.mjh.nz/nz/tv.13.m3u8
 #EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEUSEELAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_Arms_of_Australia.svg/255px-Coat_of_Arms_of_Australia.svg.png",Parliament TV
 https://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
 #EXTINF:-1 tvg-id="tv.20" tvg-name="Te Reo" tvg-logo="http://i.mjh.nz/nz/images/tv.20.png" group-title="NEUSEELAND",Te Reo
 http://i.mjh.nz/nz/tv.20.m3u8
-#EXTINF:-1 tvg-name="Three" tvg-id="" group-title="NEUSEELAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1 tvg-name="TVSN" tvg-id="" group-title="NEUSEELAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Shopping_bag_logo_no_shadow.png",TVSN
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="" group-title="NEUSEELAND" tvg-logo="",Wairarapa TV
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="" group-title="NEUSEELAND" tvg-logo="https://i.imgur.com/qwGFZKE.png",Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
