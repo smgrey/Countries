@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="************ IRLAND ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ IRLAND ************
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
 #EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="IRLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
 #EXTINF:-1 tvg-name="Oireachtas TV" tvg-id="" group-title="IRLAND" tvg-logo="",Oireachtas TV
 https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-name="Dáil Éireann" tvg-id="" group-title="IRLAND" tvg-logo="",Dáil Éireann
@@ -24,99 +24,89 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="UK",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R9G7kvW.jpg" group-title="UK",ABN TV
-https://1239101249.rsc.cdn77.org//LS-59570-ABN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Arise News" tvg-id="" group-title="UK" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png",Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="BBC ALBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/BBC_Alba.png" group-title="UK",BBC ALBA
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/200px-BBC_One_%282002%29.svg.png" group-title="UK",BBC One
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" group-title="UK",BBC Two
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC Four" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="UK",BBC Four
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/200px-BBC_Parliament_Logo.svg.png" group-title="UK",BBC Parliament
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/827
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="UK",BBC News
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/825
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg EU" tvg-id="Bloomberg.nws" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-name="Bloomberg EU Event" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU Event
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK;MUSIK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-name="Bulb TV" tvg-id="" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Bulb_Energy_company_logo.png",Bulb TV
-http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-bulbtv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="UK",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CBBC.png/240px-CBBC.png" group-title="UK",CBBC
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/320px-CBeebies.png" group-title="UK",CBeebies
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/823
 #EXTINF:-1 tvg-name="CGTN" tvg-id="" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/345px-CGTN.svg.png",CGTN 
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
-http://live.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-name="CNBC Europe" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="UK",CNBC Europe
-http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eD8zkhY.png" group-title="UK",Cruise1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="UK",DSport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-name="English Club TV" tvg-id="English Club TV" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-id="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="UK",Euronews
-http://164.40.161.46:8002/play/s4
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.eu" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/180px-Fashion_TV_logo.svg.png",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jh3Ccrn.png" group-title="UK",Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 tvg-name="High Street TV" tvg-id="HighStreetTV.uk" tvg-logo="https://i.imgur.com/kxQFOKb.png" group-title="UK",High Street TV
-https://e0e83836-f421-e353-7cd1-22710669e09f-fs-chf02-06.cdn.arqiva-ott-live.com/live-audio_track=64000-video=1100000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="UK",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://desibox.0hi.me/1.png" group-title="UK",JattTV
-https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
-#EXTINF:-1 tvg-name="Keep It Country TV" tvg-id="" tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="UK",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-name="Kool London Radio (Webradio)" tvg-id="" group-title="UK" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png",Kool London Radio (Webradio)
 http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="UK",Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Manoto" tvg-logo="https://i.imgur.com/1bXWt0N.png" group-title="UK",Manoto
-https://dow6lwapg8fa4.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="UK",MTA 1
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="UK",MTA 2
 https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XStfgbe.png" group-title="UK",Only Motors
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pick" tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="UK",Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="UK",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTA 3" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="UK",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-id="" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/23/PressTV.png/330px-PressTV.png",Press TV
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FE6M4rs.png" group-title="UK",Primal Living TV
-https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="UK",Rathergood Radio (Webradio)
-https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sheffield Live 93.2 FM" tvg-id="SheffieldLive.uk" tvg-logo="https://i.imgur.com/IlSYKSK.png" group-title="UK",Sheffield Live 93.2 FM
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="RT UK" tvg-name="RT HD UK" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/200px-S4C_logo_2014.svg.png" group-title="UK",S4C
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
+#EXTINF:-1 tvg-id="" tvg-name="Sangat Television"  tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="UK",Sangat Television
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="UK",Sony Movies Christmas
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
+plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
 #EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="UK" tvg-logo="http://www.sportstonightlive.com/img/logo.png",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sunburn TV" tvg-id="" group-title="UK" tvg-logo="https://muzenly.com/wp-content/uploads/2017/01/sunburn.png",Sunburn TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="https://i.imgur.com/5xj48vw.png" group-title="UK",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK;MUSIK",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="UK",The Boat Show
 https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="UK",Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1EwXIh.png" group-title="UK",View TV - Berkshire
-https://streamingserver001.viewtvgroup.com/local-test2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="UK",Vintage Music TV
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-VINTAGEMUSICTV-001.m3u8?chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48:8081
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="UK",World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="************ MALTA ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ MALTA ************
-https://live.23video.com/live/amlst:iclrvb8u1b9sco2597g7ec9rbu:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b928000.m3u8
+plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
+#EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
+plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 #EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM 1
-https://live.23video.com/live/amlst:1e5ncg0vdnfvifdkvr9ij97k3b:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b928000.m3u8
+https://live.23video.com/live/amlst:k0dasamo8b8a56rel9nfqmcpsa:16966825-2ca040dbfeea9e5cb868.mp4/playlist.m3u8?referer=https://www.tvm.com.mt/mt/tvmi/live/&uuid=efb05dca-18b5-0022-ad5d-3d31d44f1b5c
 #EXTINF:-1 tvg-name="TVM 2" tvg-id="" group-title="MALTA" tvg-logo="",TVM 2
-https://live.23video.com/live/amlst:qq0t6hk1u4d31tuc6vrufrp6q5:16973314-1185a91eaad15f019b1b.mp4/chunklist_b928000.m3u8
+https://live.23video.com/live/amlst:fga9hs61tme0dq2cra5qmnp348:16973314-1185a91eaad15f019b1b.mp4/playlist.m3u8?referer=https://www.tvm.com.mt/mt/tvmi/live-tvm2/&uuid=b3d9d1da-1ca6-090f-a08e-b18be4a987ff
